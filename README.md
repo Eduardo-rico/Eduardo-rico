@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on backend development and data science!
 - 📫 How to reach me emrs94@gmail.com for now.
-- (My web page)[https://ricosotomayor.tech/]
+- [My web page](https://ricosotomayor.tech/)
 
 <!---
 Eduardo-rico/Eduardo-rico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
